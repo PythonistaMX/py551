@@ -1,2 +1,2 @@
-# py-551
-Curos de Spark con Scala
+# py551
+Curso de Spark con Scala
